@@ -1,0 +1,1 @@
+function pageLoaded(){$("#preloader").fadeOut(500);}

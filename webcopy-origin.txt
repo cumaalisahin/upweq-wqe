@@ -1,0 +1,64 @@
+Uri: https://www.sharknetwork.xyz/
+File Name: H:\website copy\www.sharknetwork.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.sharknetwork.xyz/assets/d229bbf31eaeebc7c88897732d8b932d.jpg
+File Name: H:\website copy\www.sharknetwork.xyz\assets\d229bbf31eaeebc7c88897732d8b932d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sharknetwork.xyz/assets/99f34a21a0d769ebab9f9d830ea0b66d.ttf
+File Name: H:\website copy\www.sharknetwork.xyz\assets\99f34a21a0d769ebab9f9d830ea0b66d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.sharknetwork.xyz/assets/d756bbb72de482d27148a9029c61bb60.ttf
+File Name: H:\website copy\www.sharknetwork.xyz\assets\d756bbb72de482d27148a9029c61bb60.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.sharknetwork.xyz/assets/64fea43893b845d96ac6cb974b3a5d23.ttf
+File Name: H:\website copy\www.sharknetwork.xyz\assets\64fea43893b845d96ac6cb974b3a5d23.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.sharknetwork.xyz/assets/style/style.css?v=3681
+File Name: H:\website copy\www.sharknetwork.xyz\assets\style\style.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css
+File Name: H:\website copy\www.sharknetwork.xyz\ajax\libs\toastr.js\latest\toastr.min.css
+Content Type: text/css
+
+Uri: https://www.sharknetwork.xyz/assets/style/fontawesome.css
+File Name: H:\website copy\www.sharknetwork.xyz\assets\style\fontawesome.css
+Content Type: text/css
+
+Uri: https://www.sharknetwork.xyz/assets/js/jquery.js
+File Name: H:\website copy\www.sharknetwork.xyz\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.sharknetwork.xyz/assets/js/fontawesome.js
+File Name: H:\website copy\www.sharknetwork.xyz\assets\js\fontawesome.js
+Content Type: application/javascript
+
+Uri: https://www.sharknetwork.xyz/assets/js/general.js?v=6964
+File Name: H:\website copy\www.sharknetwork.xyz\assets\js\general.js
+Content Type: application/javascript
+
+Uri: https://www.sharknetwork.xyz/assets/js/preloader.js
+File Name: H:\website copy\www.sharknetwork.xyz\assets\js\preloader.js
+Content Type: application/javascript
+
+Uri: https://www.sharknetwork.xyz/assets/js/page.js?v=7573
+File Name: H:\website copy\www.sharknetwork.xyz\assets\js\page.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@10
+File Name: H:\website copy\www.sharknetwork.xyz\npm\sweetalert2@10.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js
+File Name: H:\website copy\www.sharknetwork.xyz\ajax\libs\toastr.js\latest\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://discord.com/oauth2/authorize?client_id=821475007897010207&redirect_uri=https:%2F%2Fwww.sharknetwork.xyz%2Fgiris&response_type=code&scope=email guilds identify
+File Name: H:\website copy\www.sharknetwork.xyz\oauth2\authorize.html
+Content Type: text/html
+
